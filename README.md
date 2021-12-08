@@ -1,0 +1,2 @@
+# ActivityandSportsEmojiInterpreter
+Created with CodeSandbox
